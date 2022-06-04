@@ -2,10 +2,11 @@
 //     $(this).slideToggle("slow");
 // })
 
-$('button').mouseenter(function() {
-    $(this).removeClass('makeRed').addClass('makeBlue');
-});
+// $('button').mouseenter(function() {
+//     $(this).removeClass('makeRed').addClass('makeBlue');
+// });
 
-$('button').mouseleave(function() {
-    $(this).removeClass('makeBlue').addClass('makeRed');
-});
+// $('button').mouseleave(function() {
+//     $(this).removeClass('makeBlue').addClass('makeRed');
+// });
+
